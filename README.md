@@ -1,1 +1,1 @@
-Here you will find some scripts that can save your time =)
+Here are some handy scripts that can save you time! 😊
