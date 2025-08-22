@@ -1,9 +1,8 @@
+#!/bin/bash
 # This script iterates through all FASTA files in a specified directory, 
 # counts the number of gene entries (identified by header lines starting with '>') 
 # in each file, and outputs the results as a summary table (species + gene count) 
 # into a text file.
-
-#!/bin/bash
 
 # Define the directory containing your FASTA files
 fasta_directory="/home/paola/faststorage/17.Final_organization/3.Arecoids/1.Constrained/5.Coverage"
