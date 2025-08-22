@@ -1,8 +1,8 @@
+#!/bin/bash
 ## This script checks FASTA alignment files to ensure they contain 
 ## at least 4 species (required for quartet-based analyses in ASTRAL).  
 ## For each file, it counts the number of unique species (based on FASTA headers) 
 ## and reports any alignments with fewer than 4 species.
-#!/bin/bash
 
 # Loop through all .fasta files in the current directory
 for fasta_file in *.fasta; do
