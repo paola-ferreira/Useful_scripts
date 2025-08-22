@@ -1,5 +1,5 @@
 # How to Install an Older Version of HybPiper
-I spent quite some time figuring out how to install an older version of HybPiper (version 2.0.2). Here’s a straightforward way to manage it:
+# I spent quite some time figuring out how to install an older version of HybPiper (version 2.0.2). Here’s a straightforward way to manage it:
 
 # 1. Download and install Miniconda (if not installed yet)
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
