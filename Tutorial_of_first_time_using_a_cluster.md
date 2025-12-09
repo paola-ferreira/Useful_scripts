@@ -15,7 +15,7 @@ I have several reasons why I like this client, but among them, MobaXterm allows 
 - Customize the terminal environment  
 - Open multiple SSH sessions  
 - Browse remote files through a graphical interface  
-- Easily upload and download files using drag-and-drop  
+- Easily upload and download files using drag-and-drop    
 This makes interacting with the cluster much easier, especially if you prefer not to transfer files manually using command-line tools.
 If you are on macOS and Linux, the built-in Terminal works well for SSH. However, it does not allow you to interact directly with the files (drag-and-drop).
 I am sure that there are SSH clients available for macOS and Linux, but I haven't tested them myself.
