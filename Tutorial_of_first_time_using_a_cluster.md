@@ -28,3 +28,11 @@ To access the cluster, open your SSH client (terminal) and type:
 PS: Change to your real username and cluster configurations.  
 
 ### ## 4. Creating a Project and a shared folder ##
+In genomeDK, you can open a project and share it with your collaborators. It is always a good idea since it is an easier way to share files and ask for help.  
+In genomeDK, you can request a project:  
+
+```gdk-project-request -g project__name```
+
+Once your request is approved, you can share with others:  
+
+```gdk-project-promote-user -g <project name> -u username```
