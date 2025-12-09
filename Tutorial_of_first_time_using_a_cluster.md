@@ -2,7 +2,7 @@
 
 ### ## 1. Getting Access to a Cluster ##
 
-The first step in any bioinformatics workflow is gaining access to a computing cluster. Each institution manages access differently, so the process can vary.  
+The first step in any bioinformatics is gaining access to a computing cluster. Each institution manages access differently, so the process can vary.  
 At Aarhus University (Denmark), for example, access is provided through [GenomeDK](https://genome.au.dk).  
 Once your access request has been approved, you can log in and begin working on the cluster environment.
 
