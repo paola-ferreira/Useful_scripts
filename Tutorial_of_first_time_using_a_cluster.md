@@ -24,6 +24,6 @@ I am sure that there are SSH clients available for macOS and Linux, but I haven'
 
 To access the cluster, open your SSH client (terminal) and type:
 
-'''ssh user_name@login.genome.au.dk'''
+```ssh user_name@login.genome.au.dk```
 
 PS: Change to your real username and cluster configurations.
