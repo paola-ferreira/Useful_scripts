@@ -33,6 +33,6 @@ In genomeDK, you can request a project:
 
 ```gdk-project-request -g project__name```
 
-Once your request is approved, you can share with others:  
+Once your request is approved, you can share it with others:  
 
 ```gdk-project-promote-user -g <project name> -u username```
