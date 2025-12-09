@@ -2,16 +2,12 @@
 #### # There are countless commands to learn, tools to install, and workflows to understand.
 #### # But don’t worry. This guide will walk you through the essential things you need before you begin analyzing your data, helping you build confidence step by step.
 
-### ####################################################
 ### ########## 1. Getting Access to a Cluster ##########
-### ####################################################
 
-The first step in any bioinformatics workflow is gaining access to a computing cluster. Each institution manages access differently, so the process can vary. At Aarhus University (Denmark), for example, access is provided through [GenomeDK](https://genome.au.dk)
+The first step in any bioinformatics workflow is gaining access to a computing cluster. Each institution manages access differently, so the process can vary. At Aarhus University (Denmark), for example, access is provided through [GenomeDK](https://genome.au.dk).  
 Once your access request has been approved, you can log in and begin working on the cluster environment.
 
-####################################################
-########## 2. Working With an SSH Client ###########
-####################################################
+### ########## 2. Working With an SSH Client ###########
 
 To access a computing cluster, you need an SSH client (a tool that lets you open a secure terminal connection to the cluster).
 If you are using Windows, a highly recommended option is [MobaXterm](https://mobaxterm.mobatek.net).
