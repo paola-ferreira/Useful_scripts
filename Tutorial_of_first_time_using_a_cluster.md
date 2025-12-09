@@ -20,8 +20,11 @@ This makes interacting with the cluster much easier, especially if you prefer no
 If you are on macOS and Linux, the built-in Terminal works well for SSH. However, it does not allow you to interact directly with the files (drag-and-drop).
 I am sure that there are SSH clients available for macOS and Linux, but I haven't tested them myself.
 
-### ## 3. Accessing the cluster ##
-
+### ## 3. Accessing the cluster ##  
 To access the cluster, open your SSH client (terminal) and type:  
+
 ```ssh user_name@login.genome.au.dk```  
+
 PS: Change to your real username and cluster configurations.  
+
+### ## 4. Creating a Project and a shared folder ##
